@@ -1,16 +1,17 @@
 ### Hi there 👋, I am Ahosan Bakshi
 #### learning java script
-![learning java script](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/332278893_6335290916516008_2352747571073130569_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHxGuQQTVeAldfGMBQK95znfZeyTxS-chp9l7JPFL5yGsSruYmuf5fMKKxQpTAyvsauYHW-6oh5AR3QtnSL9Qal&_nc_ohc=OILUGwIUEpwAX80R08a&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBXdh-cfKP4fu0B1J4A1muc4a3668ppeGnuVfUM1tbctw&oe=65DD22CD)
+
+![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/2dcbac0a-7223-427a-b969-371094294da8)
+
+
+![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/de28f0ed-7654-4f3f-81fc-fdef2b4041f2)
+
 
 I am a student of computer science and technology .
 
 Skills: JS / HTML / CSS
 
 
-![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/2dcbac0a-7223-427a-b969-371094294da8)
-
-
-![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/de28f0ed-7654-4f3f-81fc-fdef2b4041f2)
 
 
 

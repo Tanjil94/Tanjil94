@@ -7,7 +7,7 @@ I am a student of computer science and technology .
 Skills: JS / HTML / CSS
 ![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/2dcbac0a-7223-427a-b969-371094294da8)
 
-![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/f755f427-3bb2-4843-8715-2b20f4852b45)
+
 ![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/de28f0ed-7654-4f3f-81fc-fdef2b4041f2)
 
 

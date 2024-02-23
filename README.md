@@ -10,5 +10,6 @@ I am a student of computer science and technology .
 Skills: JS / HTML / CSS
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/B.M.AhiTanjil)  [<img 
-                                                                                                                                                        ![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/c42cfb01-b09a-498b-bc95-5bcc25d3f0e3)src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiktobakshi/)  
+                                                                                                                                                        ![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/c42cfb01-b09a-498b-bc95-5bcc25d3f0e3) 
+                                                                                                                                                        src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiktobakshi/)  
 

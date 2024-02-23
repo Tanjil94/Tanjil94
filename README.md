@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ahosan Bakshi
 #### learning java script
 <img align="right"alt="coding"width="400"src="![image](https://github.com/Tanjil94/Tanjil94/assets/160991365/82599356-c15f-4635-b01f-fc7678d37f04)
-gif">
+.gif">
 
 ![learning java script](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/332278893_6335290916516008_2352747571073130569_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHxGuQQTVeAldfGMBQK95znfZeyTxS-chp9l7JPFL5yGsSruYmuf5fMKKxQpTAyvsauYHW-6oh5AR3QtnSL9Qal&_nc_ohc=OILUGwIUEpwAX80R08a&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBXdh-cfKP4fu0B1J4A1muc4a3668ppeGnuVfUM1tbctw&oe=65DD22CD)
 
